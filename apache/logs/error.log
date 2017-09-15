@@ -1,0 +1,78 @@
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Thu Nov 17 18:56:01.421442 2016] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.20 configured -- resuming normal operations
+[Thu Nov 17 18:56:01.422059 2016] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 10.20.5.1. Set the 'ServerName' directive globally to suppress this message
+[Tue Nov 22 16:14:18.386295 2016] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.20 configured -- resuming normal operations
+[Tue Nov 22 16:14:18.387151 2016] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 10.20.5.0. Set the 'ServerName' directive globally to suppress this message
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 10.20.5.1. Set the 'ServerName' directive globally to suppress this message
+[Sat Nov 26 15:52:17.111947 2016] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) PHP/5.6.28 configured -- resuming normal operations
+[Sat Nov 26 15:52:17.112502 2016] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Nov 26 15:52:17.140049 2016] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) PHP/5.6.28 configured -- resuming normal operations
+[Sat Nov 26 15:52:17.140945 2016] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Nov 26 15:54:35.093337 2016] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+[Sat Nov 26 15:54:35.101914 2016] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 10.20.5.0. Set the 'ServerName' directive globally to suppress this message
+[Sat Nov 26 15:54:45.021861 2016] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) PHP/5.6.28 configured -- resuming normal operations
+[Sat Nov 26 15:54:45.024992 2016] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 10.20.5.1. Set the 'ServerName' directive globally to suppress this message
+[Sat Nov 26 15:54:45.112126 2016] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) PHP/5.6.28 configured -- resuming normal operations
+[Sat Nov 26 15:54:45.112847 2016] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Nov 26 15:59:29.980448 2016] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+[Sat Nov 26 15:59:30.010572 2016] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 10.20.5.0. Set the 'ServerName' directive globally to suppress this message
+[Sat Nov 26 15:59:39.573460 2016] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) PHP/5.6.28 configured -- resuming normal operations
+[Sat Nov 26 15:59:39.574402 2016] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 10.20.5.1. Set the 'ServerName' directive globally to suppress this message
+[Sat Nov 26 15:59:39.640069 2016] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) PHP/5.6.28 configured -- resuming normal operations
+[Sat Nov 26 15:59:39.640712 2016] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Nov 26 16:04:58.735746 2016] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+[Sat Nov 26 16:04:58.776836 2016] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 10.20.5.0. Set the 'ServerName' directive globally to suppress this message
+[Sat Nov 26 16:05:05.847975 2016] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) PHP/5.6.28 configured -- resuming normal operations
+[Sat Nov 26 16:05:05.848595 2016] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 10.20.5.1. Set the 'ServerName' directive globally to suppress this message
+[Sat Nov 26 16:05:06.952977 2016] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) PHP/5.6.28 configured -- resuming normal operations
+[Sat Nov 26 16:05:06.953722 2016] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Nov 26 16:06:21.929073 2016] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+[Sat Nov 26 16:06:21.943107 2016] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 10.20.5.2. Set the 'ServerName' directive globally to suppress this message
+[Sat Nov 26 16:06:24.278523 2016] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) PHP/5.6.28 configured -- resuming normal operations
+[Sat Nov 26 16:06:24.279172 2016] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 10.20.5.0. Set the 'ServerName' directive globally to suppress this message
+[Sat Nov 26 16:06:25.173827 2016] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) PHP/5.6.28 configured -- resuming normal operations
+[Sat Nov 26 16:06:25.175146 2016] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Nov 26 21:29:21.789734 2016] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+[Sat Nov 26 21:29:21.818523 2016] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 10.20.5.0. Set the 'ServerName' directive globally to suppress this message
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 10.20.5.1. Set the 'ServerName' directive globally to suppress this message
+[Sat Nov 26 21:29:24.132250 2016] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) PHP/5.6.28 configured -- resuming normal operations
+[Sat Nov 26 21:29:24.133529 2016] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Nov 26 21:29:24.160616 2016] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) PHP/5.6.28 configured -- resuming normal operations
+[Sat Nov 26 21:29:24.161266 2016] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Nov 26 21:55:27.858620 2016] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+[Sat Nov 26 21:55:28.089159 2016] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 10.20.5.0. Set the 'ServerName' directive globally to suppress this message
+[Sat Nov 26 21:55:29.885167 2016] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) PHP/5.6.28 configured -- resuming normal operations
+[Sat Nov 26 21:55:29.885958 2016] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 10.20.5.2. Set the 'ServerName' directive globally to suppress this message
+[Sat Nov 26 21:55:30.862841 2016] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) PHP/5.6.28 configured -- resuming normal operations
+[Sat Nov 26 21:55:30.864316 2016] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Nov 26 21:36:57.542137 2016] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+[Sat Nov 26 21:36:57.556981 2016] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 10.20.5.1. Set the 'ServerName' directive globally to suppress this message
+[Sat Nov 26 21:36:59.562423 2016] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) PHP/5.6.28 configured -- resuming normal operations
+[Sat Nov 26 21:36:59.563051 2016] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 10.20.5.0. Set the 'ServerName' directive globally to suppress this message
+[Sat Nov 26 21:37:00.546753 2016] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) PHP/5.6.28 configured -- resuming normal operations
+[Sat Nov 26 21:37:00.547374 2016] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Nov 26 21:39:57.977776 2016] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+[Sat Nov 26 21:39:58.033161 2016] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 10.20.5.1. Set the 'ServerName' directive globally to suppress this message
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 10.20.5.2. Set the 'ServerName' directive globally to suppress this message
+[Sat Nov 26 21:42:19.216045 2016] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) PHP/5.6.28 configured -- resuming normal operations
+[Sat Nov 26 21:42:19.216693 2016] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Nov 26 21:42:19.219807 2016] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) PHP/5.6.28 configured -- resuming normal operations
+[Sat Nov 26 21:42:19.220586 2016] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Nov 26 22:03:20.521285 2016] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+[Sat Nov 26 22:03:20.574615 2016] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
