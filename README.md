@@ -7,6 +7,14 @@ nginx php5.6.28 apache2.4 docker-compose
 
 ## How to use
 Clone this Repo And
+```bash
+$ docker network create \
+  --driver overlay \
+  --subnet 10.0.9.0/24 \
+  --gateway 10.0.9.99 \
+  my-network
 ```
-docker-compose up -d
+and next
+```bash
+$ docker stack deploy -c docker-compose.yml <prefix_name>
 ```
