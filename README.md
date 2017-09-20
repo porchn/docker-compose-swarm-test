@@ -6,15 +6,16 @@ nginx php5.6.28 apache2.4 docker-compose
 * https://hub.docker.com/_/nginx/
 
 ## How to use
-Clone this Repo And
+1. Clone this Repo And
+2. Create Network
 ```bash
 $ docker network create \
   --driver overlay \
   --subnet 10.0.9.0/24 \
   --gateway 10.0.9.99 \
-  my-network
+  web-network
 ```
-and next
+3. Deploy docker-compose file
 ```bash
 $ docker stack deploy -c docker-compose.yml <prefix_name>
 ```
